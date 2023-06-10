@@ -1,0 +1,19 @@
+body{
+    background-color: #867171;
+}
+
+div{
+    width: 390px;
+    height: 620px;
+    background-color: white;
+    color: #2A254B;
+}
+
+button{
+    width: 337px;
+    height: 56px;
+    color: #2A254B;
+    background-color: #F9F9F9;
+    border: solid;
+    border-color: #F9F9F9;
+}
